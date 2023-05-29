@@ -22,4 +22,5 @@
 
 ###其它
 这个功能是比较自由的，自定义匹配的关键字作为分割点，然后分割为一个字段之后，继续循环，最终可以把一个txt文件转为excel文件。
+
 ![image](https://github.com/Garck3h/rwapTools/assets/104743791/a000247e-6a5f-4f23-9bf5-88ea4fb17de0)
