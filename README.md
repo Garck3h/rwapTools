@@ -3,12 +3,14 @@
 
 ###漏扫基线
 漏扫基线通过读取多个主机的excel，提取关键的字段信息合并到一个新的excel表格中
+
 ![image](https://github.com/Garck3h/rwapTools/assets/104743791/38a80d0b-065b-4d4c-8d4c-f5765572bedb)
 
 
 ###操作系统基线
 操作系统基线，通过选择等保级别，从而会上传不同的sh脚本到远程服务器中，进行执行，然后把结果拉到本地，并且以IP命名。
 然后通过整理，把txt文件根据关键字进行匹配，最终把所有主机的信息整合到一个新的excel表中。
+
 ![image](https://github.com/Garck3h/rwapTools/assets/104743791/f67f8741-edc5-4a37-a712-14819ee51db8)
 
 
@@ -17,6 +19,7 @@
 从资产表中读取达梦数据库的信息，先进行测试连接，可以知道账号密码是否正确。
 然后批量执行SQL语句，然后把txt结果输出到一个文件夹中。在window下执行需要转换一下为utf-8的格式。
 最终根据关键字匹配分割，把全部结果整理到exce表格中。
+
 ![image](https://github.com/Garck3h/rwapTools/assets/104743791/8b97909b-aae3-4d55-bb7e-38debffc2155)
 
 
